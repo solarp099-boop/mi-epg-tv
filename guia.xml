@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MiBravoTvCustomEPG">
+  
+  <!-- Definición del Canal (El id debe coincidir exactamente con el que pones en tu MainActivity) -->
+  <channel id="L1Max.pe">
+    <display-name lang="es">L1 MAX</display-name>
+  </channel>
+
+  <!-- Definición de los Programas con hora de inicio y fin en formato XMLTV (YYYYMMDDHHmmss Z) -->
+  <programme start="20260812120000 -0500" stop="20260812140000 -0500" channel="L1Max.pe">
+    <title>Liga 1 en Vivo: Partido del Día</dt>
+    <desc>Transmisión exclusiva del campeonato peruano de fútbol.</desc>
+  </programme>
+
+  <programme start="20260812140000 -0500" stop="20260812160000 -0500" channel="L1Max.pe">
+    <title>Post-Partido y Análisis</dt>
+    <desc>Lo mejor jugada a jugada con los especialistas.</desc>
+  </programme>
+
+</tv>
