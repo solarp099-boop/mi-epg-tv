@@ -1,256 +1,255 @@
-<tv generator-info-name="IPTVEditor 4" generator-info-url="https://iptveditor.com" generator-version="10985253564779550950">
-<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
-<script/>
-<script/>
-<channel lang="es" id="atv.pe">
-<display-name>ATV</display-name>
-<display-name>ATV</display-name>
-</channel>
-<programme start="20260816110000 +0000" stop="20260816133000 +0000" channel="atv.pe">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv generator-info-name="Bravo TV EPG">
+
+    <channel id="bravo.atv">
+        <display-name lang="es">ATV</display-name>
+    </channel>
+<programme start="20260816110000 +0000" stop="20260816133000 +0000" channel="bravo.atv">
 <title lang="es">En otra cancha</title>
 <desc lang="es">Un programa que combina entrevistas, invitados especiales y análisis de actualidad deportiva. Paco Bazán conduce este late night show que informa y entretiene al público con diversas secciones y charlas.</desc>
 </programme>
-<programme start="20260816133000 +0000" stop="20260816142000 +0000" channel="atv.pe">
+<programme start="20260816133000 +0000" stop="20260816142000 +0000" channel="bravo.atv">
 <title lang="es">Las aventuras de Tom y Jerry</title>
 <desc lang="es">Vive divertidísimas persecuciones, trompazos, bromas y trampas junto a esta pareja que nunca se separa, el gato más gruñón persigue al ratón más aventurero de todos los tiempos.</desc>
 </programme>
-<programme start="20260816142000 +0000" stop="20260816151000 +0000" channel="atv.pe">
+<programme start="20260816142000 +0000" stop="20260816151000 +0000" channel="bravo.atv">
 <title lang="es">Warner Cartoons</title>
 <desc lang="es">Los mejores dibujos animados de la Warner Brothers.</desc>
 </programme>
-<programme start="20260816151000 +0000" stop="20260816153500 +0000" channel="atv.pe">
+<programme start="20260816151000 +0000" stop="20260816153500 +0000" channel="bravo.atv">
 <title lang="es">Bugs Bunny y amigos</title>
 <desc lang="es">Yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control. Comprimimos a todos estos personajes favoritos de dibujos animados clásicos que incluyen a Bugs Bunny, el pato Lucas, el Coyote y más.</desc>
 </programme>
-<programme start="20260816153500 +0000" stop="20260816160000 +0000" channel="atv.pe">
+<programme start="20260816153500 +0000" stop="20260816160000 +0000" channel="bravo.atv">
 <title lang="es">Tom and Jerry Theatricals</title>
 <desc lang="es">Sigue las alocadas aventuras del juego original del gato y el ratón mientras Tom, un gato doméstico, y Jerry, un ratón ingenioso luchan.</desc>
 </programme>
-<programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="atv.pe">
+<programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="bravo.atv">
 <title lang="es">Don Gato y su pandilla</title>
 <desc lang="es">Don Gato es el líder de un grupo de gatos de callejón de Nueva York, que siempre busca salirse con la suya.</desc>
 </programme>
-<programme start="20260816163000 +0000" stop="20260816180000 +0000" channel="atv.pe">
+<programme start="20260816163000 +0000" stop="20260816180000 +0000" channel="bravo.atv">
 <title lang="es">Los Picapiedra</title>
 <desc lang="es">Desde el pueblo de Pietrópolis, Pedro, Vilma y su hija Pebbles hacen que los problemas prehistóricos se transformen en carcajadas del siglo XXI, junto a sus vecinos Pablo y Betty Mármol.</desc>
 </programme>
-<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="atv.pe">
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="bravo.atv">
 <title lang="es">El último reino</title>
 <desc lang="es">Año 872. El pequeño Uhtred vive en el reino de Wessex, cuando los vikingos asesinan a sus padres y lo secuestran para criarlo junto a los suyos. Al crecer, Uhtred deberá elegir entre defender sus orígenes o al pueblo que lo ha instruido.</desc>
 </programme>
-<programme start="20260816190000 +0000" stop="20260816210000 +0000" channel="atv.pe">
+<programme start="20260816190000 +0000" stop="20260816210000 +0000" channel="bravo.atv">
 <title lang="es">Buenos días, Vietnam</title>
 <desc lang="es">Para levantar el ánimo entre las tropas norteamericanas que luchan en Vietnam, un disc jockey trae el buen humor durante su transmisión y, fuera del aire, trata de conocer a las jóvenes vietnamitas.</desc>
 </programme>
-<programme start="20260816210000 +0000" stop="20260816230000 +0000" channel="atv.pe">
+<programme start="20260816210000 +0000" stop="20260816230000 +0000" channel="bravo.atv">
 <title lang="es">La boda de mi mejor amigo</title>
 <desc lang="es">El mejor amigo de Julia le había prometido que cuando cumplieran 35 años seguirían solteros y se casarían. Pero cuando Julia se entera que Manuel va a casarse con alguien más, ella intenta detener la boda a toda costa.</desc>
 </programme>
-<programme start="20260816230000 +0000" stop="20260817010000 +0000" channel="atv.pe">
+<programme start="20260816230000 +0000" stop="20260817010000 +0000" channel="bravo.atv">
 <title lang="es">Toy Story 2</title>
 <desc lang="es">El pequeño Andy se va de campamento y un coleccionista de muñecos secuestra a Woody. Entonces, sus amigos Buzz Lightyear, Mr. Potato Head, Slinky Dog, Rex y Hamm emprenden una arriesgada aventura para rescatarlo.</desc>
 </programme>
-<programme start="20260817010000 +0000" stop="20260817025500 +0000" channel="atv.pe">
+<programme start="20260817010000 +0000" stop="20260817025500 +0000" channel="bravo.atv">
 <title lang="es">George de la selva</title>
 <desc lang="es">En medio de la selva, los gorilas han criado un bebé humano que, al crecer, se convierte en el rey de la jungla. Cuando la bella Úrsula irrumpe en su mundo, George pierde el control de todos los acontecimientos.</desc>
 </programme>
-<programme start="20260817025500 +0000" stop="20260817050000 +0000" channel="atv.pe">
+<programme start="20260817025500 +0000" stop="20260817050000 +0000" channel="bravo.atv">
 <title lang="es">Día D</title>
 <desc lang="es">Segmento periodístico dominical, bajo la conducción de Pamela Vértiz y con la labor incansable de un reconocido equipo de reporteros e investigadores.</desc>
 </programme>
-<programme start="20260817050000 +0000" stop="20260817103000 +0000" channel="atv.pe">
+<programme start="20260817050000 +0000" stop="20260817103000 +0000" channel="bravo.atv">
 <title lang="es">Alto al crimen</title>
 <desc lang="es">Ciclo que emite reportajes de operativos policiales contra la delincuencia, drogas y terrorismo con el fin de mantener informada a la población.</desc>
 </programme>
-<programme start="20260817103000 +0000" stop="20260817113000 +0000" channel="atv.pe">
+<programme start="20260817103000 +0000" stop="20260817113000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260817113000 +0000" stop="20260817153000 +0000" channel="atv.pe">
+<programme start="20260817113000 +0000" stop="20260817153000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260817153000 +0000" stop="20260817170000 +0000" channel="atv.pe">
+<programme start="20260817153000 +0000" stop="20260817170000 +0000" channel="bravo.atv">
 <title lang="es">Así de simple</title>
 <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
 </programme>
-<programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="atv.pe">
+<programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260817180000 +0000" stop="20260817190000 +0000" channel="atv.pe">
+<programme start="20260817180000 +0000" stop="20260817190000 +0000" channel="bravo.atv">
 <title lang="es">Andrea</title>
 <desc lang="es">Un programa con historias reales donde Andrea Llosa ayudará a darle solución a problemas que muchos vivimos a diario. El público se emocionará con anécdotas y vivencias de todo tipo mientras la conductora ofrece soluciones.</desc>
 </programme>
-<programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="atv.pe">
+<programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="bravo.atv">
 <title lang="es">Ana Cristina</title>
 <desc lang="es">Ana Cristina, una alegre y bella muchacha, tiene que vivir al lado de la esposa de su padre y su media hermana, quienes la detestan. Gonzalo se enamora de ella, a pesar de haberse casado con su hermanastra Gimena.</desc>
 </programme>
-<programme start="20260817200000 +0000" stop="20260818010000 +0000" channel="atv.pe">
+<programme start="20260817200000 +0000" stop="20260818010000 +0000" channel="bravo.atv">
 <title lang="es">El cuerpo del deseo</title>
 <desc lang="es">Un hombre de 67 años muere dejando una joven esposa, y su espíritu hará presencia en otra persona para rescatar lo que le pertenece. Se reencarnará en Salvador, un joven campesino, que en su regreso dejará muchos secretos al descubierto.</desc>
 </programme>
-<programme start="20260818010000 +0000" stop="20260818023000 +0000" channel="atv.pe">
+<programme start="20260818010000 +0000" stop="20260818023000 +0000" channel="bravo.atv">
 <title lang="es">Ocurre ahora</title>
 <desc lang="es">Lo más relevante de la coyuntura nacional e internacional a nivel social y político, con la conducción de Mávila Huertas.</desc>
 </programme>
-<programme start="20260818023000 +0000" stop="20260818040000 +0000" channel="atv.pe">
+<programme start="20260818023000 +0000" stop="20260818040000 +0000" channel="bravo.atv">
 <title lang="es">Magaly TV, la firme</title>
 <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
 </programme>
-<programme start="20260818040000 +0000" stop="20260818045000 +0000" channel="atv.pe">
+<programme start="20260818040000 +0000" stop="20260818045000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260818045000 +0000" stop="20260818053000 +0000" channel="atv.pe">
+<programme start="20260818045000 +0000" stop="20260818053000 +0000" channel="bravo.atv">
 <title lang="es">En otra cancha</title>
 <desc lang="es">Un programa que combina entrevistas, invitados especiales y análisis de actualidad deportiva. Paco Bazán conduce este late night show que informa y entretiene al público con diversas secciones y charlas.</desc>
 </programme>
-<programme start="20260818053000 +0000" stop="20260818103000 +0000" channel="atv.pe">
+<programme start="20260818053000 +0000" stop="20260818103000 +0000" channel="bravo.atv">
 <title lang="es">La fiesta del gol</title>
 <desc lang="es">La mejor cobertura de los partidos más importantes de la jornada está aquí, en este espacio que te trae un resumen de goles, jugadas y hasta polémicas de cada uno de los encuentros disputados que son objeto de análisis en este segmento.</desc>
 </programme>
-<programme start="20260818103000 +0000" stop="20260818113000 +0000" channel="atv.pe">
+<programme start="20260818103000 +0000" stop="20260818113000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260818113000 +0000" stop="20260818153000 +0000" channel="atv.pe">
+<programme start="20260818113000 +0000" stop="20260818153000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260818153000 +0000" stop="20260818170000 +0000" channel="atv.pe">
+<programme start="20260818153000 +0000" stop="20260818170000 +0000" channel="bravo.atv">
 <title lang="es">Así de simple</title>
 <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
 </programme>
-<programme start="20260818170000 +0000" stop="20260818180000 +0000" channel="atv.pe">
+<programme start="20260818170000 +0000" stop="20260818180000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260818180000 +0000" stop="20260818190000 +0000" channel="atv.pe">
+<programme start="20260818180000 +0000" stop="20260818190000 +0000" channel="bravo.atv">
 <title lang="es">Andrea</title>
 <desc lang="es">Un programa con historias reales donde Andrea Llosa ayudará a darle solución a problemas que muchos vivimos a diario. El público se emocionará con anécdotas y vivencias de todo tipo mientras la conductora ofrece soluciones.</desc>
 </programme>
-<programme start="20260818190000 +0000" stop="20260818200000 +0000" channel="atv.pe">
+<programme start="20260818190000 +0000" stop="20260818200000 +0000" channel="bravo.atv">
 <title lang="es">Ana Cristina</title>
 <desc lang="es">Ana Cristina, una alegre y bella muchacha, tiene que vivir al lado de la esposa de su padre y su media hermana, quienes la detestan. Gonzalo se enamora de ella, a pesar de haberse casado con su hermanastra Gimena.</desc>
 </programme>
-<programme start="20260818200000 +0000" stop="20260819010000 +0000" channel="atv.pe">
+<programme start="20260818200000 +0000" stop="20260819010000 +0000" channel="bravo.atv">
 <title lang="es">El cuerpo del deseo</title>
 <desc lang="es">Un hombre de 67 años muere dejando una joven esposa, y su espíritu hará presencia en otra persona para rescatar lo que le pertenece. Se reencarnará en Salvador, un joven campesino, que en su regreso dejará muchos secretos al descubierto.</desc>
 </programme>
-<programme start="20260819010000 +0000" stop="20260819023000 +0000" channel="atv.pe">
+<programme start="20260819010000 +0000" stop="20260819023000 +0000" channel="bravo.atv">
 <title lang="es">Ocurre ahora</title>
 <desc lang="es">Lo más relevante de la coyuntura nacional e internacional a nivel social y político, con la conducción de Mávila Huertas.</desc>
 </programme>
-<programme start="20260819023000 +0000" stop="20260819040000 +0000" channel="atv.pe">
+<programme start="20260819023000 +0000" stop="20260819040000 +0000" channel="bravo.atv">
 <title lang="es">Magaly TV, la firme</title>
 <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
 </programme>
-<programme start="20260819040000 +0000" stop="20260819045000 +0000" channel="atv.pe">
+<programme start="20260819040000 +0000" stop="20260819045000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260819045000 +0000" stop="20260819053000 +0000" channel="atv.pe">
+<programme start="20260819045000 +0000" stop="20260819053000 +0000" channel="bravo.atv">
 <title lang="es">En otra cancha</title>
 <desc lang="es">Un programa que combina entrevistas, invitados especiales y análisis de actualidad deportiva. Paco Bazán conduce este late night show que informa y entretiene al público con diversas secciones y charlas.</desc>
 </programme>
-<programme start="20260819053000 +0000" stop="20260819060000 +0000" channel="atv.pe">
+<programme start="20260819053000 +0000" stop="20260819060000 +0000" channel="bravo.atv">
 <title lang="es">La fiesta del gol</title>
 <desc lang="es">La mejor cobertura de los partidos más importantes de la jornada está aquí, en este espacio que te trae un resumen de goles, jugadas y hasta polémicas de cada uno de los encuentros disputados que son objeto de análisis en este segmento.</desc>
 </programme>
-<programme start="20260819060000 +0000" stop="20260819103000 +0000" channel="atv.pe">
+<programme start="20260819060000 +0000" stop="20260819103000 +0000" channel="bravo.atv">
 <title lang="es">Los hombres de Paco</title>
 <desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.</desc>
 </programme>
-<programme start="20260819103000 +0000" stop="20260819113000 +0000" channel="atv.pe">
+<programme start="20260819103000 +0000" stop="20260819113000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260819113000 +0000" stop="20260819153000 +0000" channel="atv.pe">
+<programme start="20260819113000 +0000" stop="20260819153000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260819153000 +0000" stop="20260819170000 +0000" channel="atv.pe">
+<programme start="20260819153000 +0000" stop="20260819170000 +0000" channel="bravo.atv">
 <title lang="es">Así de simple</title>
 <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
 </programme>
-<programme start="20260819170000 +0000" stop="20260819180000 +0000" channel="atv.pe">
+<programme start="20260819170000 +0000" stop="20260819180000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260819180000 +0000" stop="20260819190000 +0000" channel="atv.pe">
+<programme start="20260819180000 +0000" stop="20260819190000 +0000" channel="bravo.atv">
 <title lang="es">Andrea</title>
 <desc lang="es">Un programa con historias reales donde Andrea Llosa ayudará a darle solución a problemas que muchos vivimos a diario. El público se emocionará con anécdotas y vivencias de todo tipo mientras la conductora ofrece soluciones.</desc>
 </programme>
-<programme start="20260819190000 +0000" stop="20260819200000 +0000" channel="atv.pe">
+<programme start="20260819190000 +0000" stop="20260819200000 +0000" channel="bravo.atv">
 <title lang="es">Ana Cristina</title>
 <desc lang="es">Ana Cristina, una alegre y bella muchacha, tiene que vivir al lado de la esposa de su padre y su media hermana, quienes la detestan. Gonzalo se enamora de ella, a pesar de haberse casado con su hermanastra Gimena.</desc>
 </programme>
-<programme start="20260819200000 +0000" stop="20260820010000 +0000" channel="atv.pe">
+<programme start="20260819200000 +0000" stop="20260820010000 +0000" channel="bravo.atv">
 <title lang="es">El cuerpo del deseo</title>
 <desc lang="es">Un hombre de 67 años muere dejando una joven esposa, y su espíritu hará presencia en otra persona para rescatar lo que le pertenece. Se reencarnará en Salvador, un joven campesino, que en su regreso dejará muchos secretos al descubierto.</desc>
 </programme>
-<programme start="20260820010000 +0000" stop="20260820023000 +0000" channel="atv.pe">
+<programme start="20260820010000 +0000" stop="20260820023000 +0000" channel="bravo.atv">
 <title lang="es">Ocurre ahora</title>
 <desc lang="es">Lo más relevante de la coyuntura nacional e internacional a nivel social y político, con la conducción de Mávila Huertas.</desc>
 </programme>
-<programme start="20260820023000 +0000" stop="20260820040000 +0000" channel="atv.pe">
+<programme start="20260820023000 +0000" stop="20260820040000 +0000" channel="bravo.atv">
 <title lang="es">Magaly TV, la firme</title>
 <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
 </programme>
-<programme start="20260820040000 +0000" stop="20260820045000 +0000" channel="atv.pe">
+<programme start="20260820040000 +0000" stop="20260820045000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260820045000 +0000" stop="20260820053000 +0000" channel="atv.pe">
+<programme start="20260820045000 +0000" stop="20260820053000 +0000" channel="bravo.atv">
 <title lang="es">En otra cancha</title>
 <desc lang="es">Un programa que combina entrevistas, invitados especiales y análisis de actualidad deportiva. Paco Bazán conduce este late night show que informa y entretiene al público con diversas secciones y charlas.</desc>
 </programme>
-<programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="atv.pe">
+<programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="bravo.atv">
 <title lang="es">La fiesta del gol</title>
 <desc lang="es">La mejor cobertura de los partidos más importantes de la jornada está aquí, en este espacio que te trae un resumen de goles, jugadas y hasta polémicas de cada uno de los encuentros disputados que son objeto de análisis en este segmento.</desc>
 </programme>
-<programme start="20260820060000 +0000" stop="20260820103000 +0000" channel="atv.pe">
+<programme start="20260820060000 +0000" stop="20260820103000 +0000" channel="bravo.atv">
 <title lang="es">Los hombres de Paco</title>
 <desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.</desc>
 </programme>
-<programme start="20260820103000 +0000" stop="20260820113000 +0000" channel="atv.pe">
+<programme start="20260820103000 +0000" stop="20260820113000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260820113000 +0000" stop="20260820153000 +0000" channel="atv.pe">
+<programme start="20260820113000 +0000" stop="20260820153000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias - Edición matinal</title>
 <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
 </programme>
-<programme start="20260820153000 +0000" stop="20260820170000 +0000" channel="atv.pe">
+<programme start="20260820153000 +0000" stop="20260820170000 +0000" channel="bravo.atv">
 <title lang="es">Así de simple</title>
 <desc lang="es">Una pareja interpretada por seis actores representan el ruido mental de todas nuestras opiniones contrapuestas a la hora de amar a una persona, con todo lo bueno y todo lo malo de una relación.</desc>
 </programme>
-<programme start="20260820170000 +0000" stop="20260820180000 +0000" channel="atv.pe">
+<programme start="20260820170000 +0000" stop="20260820180000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
-<programme start="20260820180000 +0000" stop="20260820190000 +0000" channel="atv.pe">
+<programme start="20260820180000 +0000" stop="20260820190000 +0000" channel="bravo.atv">
 <title lang="es">Andrea</title>
 <desc lang="es">Un programa con historias reales donde Andrea Llosa ayudará a darle solución a problemas que muchos vivimos a diario. El público se emocionará con anécdotas y vivencias de todo tipo mientras la conductora ofrece soluciones.</desc>
 </programme>
-<programme start="20260820190000 +0000" stop="20260820200000 +0000" channel="atv.pe">
+<programme start="20260820190000 +0000" stop="20260820200000 +0000" channel="bravo.atv">
 <title lang="es">Ana Cristina</title>
 <desc lang="es">Ana Cristina, una alegre y bella muchacha, tiene que vivir al lado de la esposa de su padre y su media hermana, quienes la detestan. Gonzalo se enamora de ella, a pesar de haberse casado con su hermanastra Gimena.</desc>
 </programme>
-<programme start="20260820200000 +0000" stop="20260821010000 +0000" channel="atv.pe">
+<programme start="20260820200000 +0000" stop="20260821010000 +0000" channel="bravo.atv">
 <title lang="es">El cuerpo del deseo</title>
 <desc lang="es">Un hombre de 67 años muere dejando una joven esposa, y su espíritu hará presencia en otra persona para rescatar lo que le pertenece. Se reencarnará en Salvador, un joven campesino, que en su regreso dejará muchos secretos al descubierto.</desc>
 </programme>
-<programme start="20260821010000 +0000" stop="20260821023000 +0000" channel="atv.pe">
+<programme start="20260821010000 +0000" stop="20260821023000 +0000" channel="bravo.atv">
 <title lang="es">Ocurre ahora</title>
 <desc lang="es">Lo más relevante de la coyuntura nacional e internacional a nivel social y político, con la conducción de Mávila Huertas.</desc>
 </programme>
-<programme start="20260821023000 +0000" stop="20260821040000 +0000" channel="atv.pe">
+<programme start="20260821023000 +0000" stop="20260821040000 +0000" channel="bravo.atv">
 <title lang="es">Magaly TV, la firme</title>
 <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
 </programme>
-<programme start="20260821040000 +0000" stop="20260821045000 +0000" channel="atv.pe">
+<programme start="20260821040000 +0000" stop="20260821045000 +0000" channel="bravo.atv">
 <title lang="es">ATV Noticias</title>
 <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
 </programme>
